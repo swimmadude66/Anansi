@@ -1,17 +1,9 @@
 {
-  "name": "angularpwaseed",
-  "version": "10.1.4",
-  "description": "A starter project for a PWA built in Angular",
+  "name": "anansi",
+  "version": "0.0.0",
+  "description": "API endpoint mocking and proxying for easier testing and other godly trickery",
   "author": "swimmadude66",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/swimmadude66/AngularPWASeed.git"
-  },
-  "bugs": {
-    "url": "https://github.com/swimmadude66/AngularPWASeed/issues"
-  },
-  "homepage": "https://github.com/swimmadude66/AngularPWASeed#readme",
   "scripts": {
     "start": "node dist/server/app.js",
     "prebuild": "rimraf dist",
